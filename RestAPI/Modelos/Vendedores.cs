@@ -4,7 +4,6 @@
     {
         // Modelo para los vendedores
         public string IdVendedor { get; set; }
-
         public string NombreVendedor { get; set; }
     }
 }
